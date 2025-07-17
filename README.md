@@ -1,2 +1,3 @@
-# Retail-Sales-Analysis Dashboard
-This project is a retail sales analysis dashboard created using Power BI. It helps visualize sales performance across products and gender. The dashboard supports better business decisions through clear visuals and calculated metrics.
+## 📌 Project Overview
+This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard** built using a simulated dataset. The dashboard provides insights into sales performance across various stores and gender to support data-driven retail decision-making.
+
