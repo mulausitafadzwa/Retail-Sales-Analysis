@@ -22,7 +22,6 @@ This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard
 – Verified accuracy and tested interactions.
 
 ## Dashboard
-<img width="1455" height="721" alt="Screenshot 2025-08-15 165559" src="https://github.com/user-attachments/assets/edff598e-c35e-47eb-8575-d4e2ad03cffc" />
 
 ## Tools Used
 - Power BI Desktop– Data modeling and dashboard creation.
