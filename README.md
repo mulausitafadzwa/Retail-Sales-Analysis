@@ -12,3 +12,4 @@ This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard
 
 - <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Screenshot.png">Dashboard</a>
   
+## Process 
