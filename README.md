@@ -2,7 +2,7 @@
 This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard** built using a simulated dataset. The dashboard provides insights into sales performance across various stores and gender to support data-driven retail decision-making.
 
 ## Dataset Used 
-- <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Dataset.csv">Dataset</a>
+<a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Dataset.csv">Dataset</a>
 
 ## Objectives
 - Track overall retail sales revenue and customer count.
@@ -10,19 +10,19 @@ This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard
 - Analyze customer distribution by gender and category.
 - Identify top-performing categories in terms of revenue and customer engagement.
 - Enable dynamic exploration of data through interactive filters.
-
-## Process 
-- Verified dataset for missing values and anomalies.
-- Ensured consistent formatting for data types and date fields.
-- Categorized products into *Beauty*, *Clothing*, and *Electronics*.
-- Created calculated fields for revenue per category and customer count.
-- Built KPI cards for Revenue and Number of Customers.
-- Designed a pie chart for category revenue distribution.
-- Created a bar chart for customer segmentation by category and gender.
-- Added slicers for Date, Gender, and Product Category to allow dynamic analysis.
-
- <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Screenshot.png">Dashboard</a>
   
+- <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Screenshot.png">Dashboard</a>
+  
+## Process 
+– Gathered from sales, product, customer, and store datasets.
+– Standardized formats, removed duplicates, handled missing values.
+– Built star schema with fact and dimension tables.
+– Defined KPIs using DAX formulas.
+– Created interactive visuals, slicers, and filters.
+– Verified accuracy and tested interactions.
+
+## Dashboard
+<img width="1455" height="721" alt="Screenshot 2025-08-15 165559" src="https://github.com/user-attachments/assets/edff598e-c35e-47eb-8575-d4e2ad03cffc" />
 
 ## Tools Used
 - Power BI Desktop– Data modeling and dashboard creation.
