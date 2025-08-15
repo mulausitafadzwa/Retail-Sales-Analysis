@@ -10,5 +10,5 @@ This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard
 - Which gender brings the highest revenue ?
 - Which month had the highest revenue ?
 
-
+- <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Dashboard.pbix">Dashboard</a>
   
