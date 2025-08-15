@@ -21,7 +21,7 @@ This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard
 - Created a bar chart for customer segmentation by category and gender.
 - Added slicers for Date, Gender, and Product Category to allow dynamic analysis.
 
--Dasboard Interaction <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Screenshot.png">Dashboard</a>
+ <a href="https://github.com/mulausitafadzwa/Retail-Sales-Analysis/blob/main/Retail%20Sales%20Screenshot.png">Dashboard</a>
   
 
 ## Tools Used
