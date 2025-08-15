@@ -25,6 +25,6 @@ This Power BI project presents a comprehensive **Retail Sales Analysis Dashboard
   
 
 ## Tools Used
-Power BI Desktop– Data modeling and dashboard creation.
-Power Query– Data cleaning and transformation.
-DAX– KPI calculations.
+- Power BI Desktop– Data modeling and dashboard creation.
+- Power Query– Data cleaning and transformation.
+- DAX– KPI calculations.
